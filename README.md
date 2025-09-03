@@ -4,7 +4,6 @@
 
 ## 🔹 Cấu trúc cơ bản
 
-```markdown
 # 👋 Hi, I'm [Tên của bạn]  
 🚀 Software Engineer | ☁️ AWS Solution Architect | 🤖 AI Enthusiast  
 
@@ -18,13 +17,12 @@
 ---
 
 ## 📌 Featured Projects
-```
+
 
 ---
 
 ## 🔹 1. Kiểu **Danh sách dự án với icon & link**
 
-```markdown
 ### 🚀 Projects
 - [🔥 Project A](https://github.com/username/project-a)  
   _A scalable microservices app with AWS Fargate & ALB._  
@@ -37,7 +35,7 @@
 - [🤖 Project C](https://github.com/username/project-c)  
   _Chatbot with FastAPI + GPT integration._  
   **Tech stack:** Python, FastAPI, Vector DB  
-```
+
 
 ---
 
@@ -45,7 +43,6 @@
 
 Dùng badge từ [shields.io](https://shields.io/) để tạo nhãn công nghệ.
 
-```markdown
 ### 🚀 Projects
 
 **[🔥 Project A](https://github.com/username/project-a)**  
@@ -61,13 +58,12 @@ Real-time stock market data pipeline.
 ![Python](https://img.shields.io/badge/Python-3.9-blue) 
 ![Kafka](https://img.shields.io/badge/Kafka-Streaming-black) 
 ![Spark](https://img.shields.io/badge/Spark-BigData-red)
-```
+
 
 ---
 
 ## 🔹 3. Kiểu **Grid Layout (bảng markdown)**
 
-```markdown
 ### 📌 My Projects
 
 | Project | Description | Tech Stack |
@@ -75,7 +71,7 @@ Real-time stock market data pipeline.
 | [🔥 Project A](https://github.com/username/project-a) | Microservices with AWS | Node.js, Docker, AWS |
 | [📊 Project B](https://github.com/username/project-b) | Real-time stock pipeline | Python, Kafka, Spark |
 | [🤖 Project C](https://github.com/username/project-c) | AI Chatbot | FastAPI, GPT, VectorDB |
-```
+
 
 ---
 
@@ -83,7 +79,6 @@ Real-time stock market data pipeline.
 
 Bạn có thể thêm hình minh họa hoặc GIF (demo app).
 
-```markdown
 ### 🚀 Featured Project: Project A
 
 ![Demo](https://raw.githubusercontent.com/username/project-a/main/demo.gif)
@@ -91,18 +86,18 @@ Bạn có thể thêm hình minh họa hoặc GIF (demo app).
 _A scalable microservices app running on AWS ECS Fargate with ALB routing._
 
 🔗 [View Project](https://github.com/username/project-a)
-```
+
 
 ---
 
 ## 🔹 5. Thêm **GitHub Stats / Contribution Graph** (cực phổ biến)
 
-```markdown
+
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ### 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-```
+
 
 
