@@ -99,5 +99,28 @@ _A scalable microservices app running on AWS ECS Fargate with ALB routing._
 ### 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
+---
+
+### 🌟 Projects Showcase
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
+
+<div style="border: 1px solid #ccc; border-radius: 12px; padding: 12px;">
+  <h3>🔥 <a href="https://github.com/username/project-a">Project A</a></h3>
+  <p>Microservices on AWS Fargate.</p>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange"> 
+  <img src="https://img.shields.io/badge/Docker-Container-blue"> 
+</div>
+
+<div style="border: 1px solid #ccc; border-radius: 12px; padding: 12px;">
+  <h3>📊 <a href="https://github.com/username/project-b">Project B</a></h3>
+  <p>Real-time Data Pipeline.</p>
+  <img src="https://img.shields.io/badge/Python-3.9-blue"> 
+  <img src="https://img.shields.io/badge/Kafka-Streaming-black"> 
+</div>
+
+</div>
+
+
 
 
