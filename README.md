@@ -94,10 +94,10 @@ _A scalable microservices app running on AWS ECS Fargate with ALB routing._
 
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tqnhu4&show_icons=true&theme=radical)
 
 ### 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tqnhu4&layout=compact&theme=radical)
 
 ---
 
