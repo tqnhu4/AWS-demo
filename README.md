@@ -121,6 +121,24 @@ _A scalable microservices app running on AWS ECS Fargate with ALB routing._
 
 </div>
 
+---
+### 📌 Featured Projects
+
+<div style="display: flex; gap: 10px;">
+
+  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+    <h3>🔥 <a href="https://github.com/username/project-a">Project A</a></h3>
+    <p>Scalable microservices app with AWS Fargate & ALB.</p>
+    <b>Tech stack:</b> Node.js, Docker, AWS
+  </div>
+
+  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+    <h3>📊 <a href="https://github.com/username/project-b">Project B</a></h3>
+    <p>Real-time stock market pipeline with Kafka.</p>
+    <b>Tech stack:</b> Python, Kafka, Spark
+  </div>
+
+</div>
 
 
 
