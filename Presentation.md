@@ -207,8 +207,3 @@ to create a system that can:
 This architecture is **scalable**, **serverless**, and **AI-ready** —
 perfect for enterprise knowledge systems or intelligent chatbots.
 
-
----
-
-Bạn có muốn tôi viết **phần mở đầu và kết kết clip (intro/outro)** theo phong cách YouTube chuyên nghiệp (ví dụ: “Welcome to my channel — today we’ll build…” và “If you enjoyed this demo…”)?
-Tôi có thể thêm phần đó để bạn đọc tự nhiên hơn khi ghi hình.
