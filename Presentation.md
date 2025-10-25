@@ -207,14 +207,6 @@ to create a system that can:
 This architecture is **scalable**, **serverless**, and **AI-ready** —
 perfect for enterprise knowledge systems or intelligent chatbots.
 
----
-
-✅ **Tip for your video**
-To make the clip engaging:
-
-* Use simple motion graphics with arrows and icons (S3, Bedrock, etc.)
-* Alternate between your voice + diagram flow animations
-* Highlight keywords like *Embedding*, *OpenSearch*, *RAG Query* in bold
 
 ---
 
