@@ -1,19 +1,3 @@
-
-Tôi đang phát triển ứng dụng "Semantic Search + RAG Application (Bedrock + OpenSearch", với layout được trình bày như sau "-
-
-
-"
-tôi muốn bạn giúp tôi thiết kế bài trình bày (bài nói, nói trong clip phục vụ làm youtube), ngôn ngữ trình bày đơn giản, và sử dụng tiếng Anh, tách bạch từng phần rõ ràng
-======================
-
-
-Tuyệt vời — bạn đang làm rất bài bản. Với layout bạn đưa, tôi sẽ giúp bạn chuyển nó thành **một kịch bản trình bày (script)** bằng tiếng Anh, giọng tự nhiên, phù hợp cho **YouTube clip giới thiệu hoặc demo kỹ thuật**.
-Mục tiêu: người xem dễ hiểu, có logic, và bạn chỉ cần đọc theo (hoặc ghi âm lồng tiếng) là có thể dựng video ngay.
-
----
-
-Dưới đây là **phiên bản “presentation script”** cho toàn bộ layout của bạn, được chia thành các phần tương ứng (#1–#5), với lời nói rõ ràng, có nhịp và gợi ý ngắt giọng 👇
-
 ---
 
 ## 🎙️ **YouTube Presentation Script — “Semantic Search + RAG Application (Bedrock + OpenSearch)”**
